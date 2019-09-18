@@ -1,0 +1,35 @@
+        tr a {color:white;}
+        .links {border-radius: 10px;
+            text-decoration: none;
+        color:white;}
+        .links:hover {background-color:red;}
+        section{background-image: url("https://res.cloudinary.com/omojolade/image/upload/e_auto_color,q_auto:best/v1568712908/Chicken-rice-for-desktop_el3ddp.jpg"); 
+                width:100%; 
+                opacity: 1; 
+                z-index: -6;
+                height:1500px;
+                background-repeat: no-repeat;
+}
+        .HomeText {position: relative;
+        color: black;
+        top:250px;
+        text-align: left;
+        font-size: 28px;
+        margin-left:40px;}
+        .HomeText p {font-size:40px;}           
+        #homelink {color:white;
+        font-size:18px;
+        text-decoration: none;
+        padding:4px;
+        border-radius: 25px;
+        background:red;
+        display: block;
+        text-align: center;
+        cursor: pointer;
+        width: 150px;
+} 
+        #homelink a {color:white;}
+        .HomeWord {font-size:35px;}
+        body a {text-decoration: none;}
+
+    

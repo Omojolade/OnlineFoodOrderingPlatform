@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Gbotemi",
+            "password": 2560,
+            "name": "Oluwagbotemi"
+        }
+    ],
+
+    "orders": [
+        {
+            "id": 1,
+            "user_id": 3,
+            "food": "Ofada Rice",
+            "quantity": 1,
+            "price": 1000
+        }    
+    
+    ]
+}
